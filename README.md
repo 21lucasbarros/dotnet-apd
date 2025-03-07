@@ -9,18 +9,6 @@ A disciplina foca no desenvolvimento de aplicações desktop utilizando tecnolog
 - **C#** com **Windows Forms** ou **WPF**
 - **.NET Framework/Core**
 
-## 🚀 Como Utilizar
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/lucasweacked/aplicacoes-desktop.git
-   ```
-2. Abra o projeto no **Visual Studio**.
-3. Compile e execute a aplicação.
-4. Explore os exemplos e modifique conforme necessário.
-
-## ✨ Contribuições
-Este repositório serve como um espaço de aprendizado e prática. Sinta-se à vontade para contribuir com melhorias, anotações ou novos exemplos!
-
 ---
 📌 **Lucas Barros Simon** - [GitHub](https://github.com/lucasweacked)
 
