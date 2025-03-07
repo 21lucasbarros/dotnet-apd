@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\TP01-02\TP01-02\bin\Debug\TP01-02.exe.config
+C:\Users\Asus\source\repos\TP01-02\TP01-02\bin\Debug\TP01-02.exe
+C:\Users\Asus\source\repos\TP01-02\TP01-02\bin\Debug\TP01-02.pdb
+C:\Users\Asus\source\repos\TP01-02\TP01-02\obj\Debug\TP01-02.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\TP01-02\TP01-02\obj\Debug\TP01_02.Form1.resources
+C:\Users\Asus\source\repos\TP01-02\TP01-02\obj\Debug\TP01_02.Properties.Resources.resources
+C:\Users\Asus\source\repos\TP01-02\TP01-02\obj\Debug\TP01-02.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\TP01-02\TP01-02\obj\Debug\TP01-02.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TP01-02\TP01-02\obj\Debug\TP01-02.exe
+C:\Users\Asus\source\repos\TP01-02\TP01-02\obj\Debug\TP01-02.pdb
