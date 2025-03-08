@@ -1,0 +1,12 @@
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\bin\Debug\net6.0\MinhaLib.deps.json
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\bin\Debug\net6.0\MinhaLib.dll
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\bin\Debug\net6.0\ref\MinhaLib.dll
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\bin\Debug\net6.0\MinhaLib.pdb
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\obj\Debug\net6.0\MinhaLib.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\obj\Debug\net6.0\MinhaLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\obj\Debug\net6.0\MinhaLib.AssemblyInfoInputs.cache
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\obj\Debug\net6.0\MinhaLib.AssemblyInfo.cs
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\obj\Debug\net6.0\MinhaLib.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\obj\Debug\net6.0\MinhaLib.dll
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\obj\Debug\net6.0\ref\MinhaLib.dll
+C:\Users\unisanta\Desktop\APD\MinhaLib\MinhaLib\obj\Debug\net6.0\MinhaLib.pdb
