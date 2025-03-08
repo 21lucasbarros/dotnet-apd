@@ -8,7 +8,7 @@ A disciplina foca no desenvolvimento de aplicações desktop utilizando tecnolog
 
 ## 🛠 Tecnologias Utilizadas
 
-- **C#** com **Windows Forms** ou **WPF**
+- **C#** com **Windows Forms**
 - **.NET Framework/Core**
 
 ---
