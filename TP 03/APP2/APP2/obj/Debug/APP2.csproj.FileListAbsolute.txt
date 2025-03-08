@@ -1,0 +1,11 @@
+C:\Users\unisanta\Desktop\APP2\APP2\bin\Debug\APP2.exe.config
+C:\Users\unisanta\Desktop\APP2\APP2\bin\Debug\APP2.exe
+C:\Users\unisanta\Desktop\APP2\APP2\bin\Debug\APP2.pdb
+C:\Users\unisanta\Desktop\APP2\APP2\obj\Debug\APP2.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\APP2\APP2\obj\Debug\APP2.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\APP2\APP2\obj\Debug\APP2.Form1.resources
+C:\Users\unisanta\Desktop\APP2\APP2\obj\Debug\APP2.Properties.Resources.resources
+C:\Users\unisanta\Desktop\APP2\APP2\obj\Debug\APP2.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\APP2\APP2\obj\Debug\APP2.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\APP2\APP2\obj\Debug\APP2.exe
+C:\Users\unisanta\Desktop\APP2\APP2\obj\Debug\APP2.pdb

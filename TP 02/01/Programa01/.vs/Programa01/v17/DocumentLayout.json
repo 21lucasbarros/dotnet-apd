@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\programa01\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|solutionrelative:programa01\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|c:\\users\\asus\\downloads\\testes aula 02-20250308t005710z-001\\testes aula 02\\01\\programa01\\programa01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|solutionrelative:programa01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\programa01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|solutionrelative:programa01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\programa01\\alunobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|solutionrelative:programa01\\alunobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\programa01\\erro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16C80EA6-39DF-4E25-966F-C838FF08C250}|Programa01\\Programa01.csproj|solutionrelative:programa01\\erro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AlunoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\Programa01\\AlunoBLL.cs",
+              "RelativeDocumentMoniker": "Programa01\\AlunoBLL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\Programa01\\AlunoBLL.cs",
+              "RelativeToolTip": "Programa01\\AlunoBLL.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wHgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:43:11.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Erro.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\Programa01\\Erro.cs",
+              "RelativeDocumentMoniker": "Programa01\\Erro.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\Programa01\\Erro.cs",
+              "RelativeToolTip": "Programa01\\Erro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:43:11.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\Programa01\\Aluno.cs",
+              "RelativeDocumentMoniker": "Programa01\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\Programa01\\Aluno.cs",
+              "RelativeToolTip": "Programa01\\Aluno.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:43:11.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\Programa01\\Form1.cs",
+              "RelativeDocumentMoniker": "Programa01\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\Programa01\\Form1.cs",
+              "RelativeToolTip": "Programa01\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:43:11.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\Testes Aula 02-20250308T005710Z-001\\Testes Aula 02\\01\\Programa01\\Programa01\\Form1.cs",
+              "RelativeDocumentMoniker": "Programa01\\Form1.cs",
+              "ToolTip": "C:\\Users\\unisanta\\Desktop\\01\\Programa01\\Programa01\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\unisanta\\Desktop\\01\\Programa01\\Programa01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2025-03-08T09:43:11.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

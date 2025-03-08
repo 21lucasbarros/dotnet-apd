@@ -1,0 +1,11 @@
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\obj\Debug\Programa01.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\obj\Debug\Programa01.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\obj\Debug\Programa01.Form1.resources
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\obj\Debug\Programa01.Properties.Resources.resources
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\obj\Debug\Programa01.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\obj\Debug\Programa01.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\bin\Debug\Programa01.exe.config
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\bin\Debug\Programa01.exe
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\bin\Debug\Programa01.pdb
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\obj\Debug\Programa01.exe
+C:\Users\unisanta\Desktop\01\Programa01\Programa01\obj\Debug\Programa01.pdb
