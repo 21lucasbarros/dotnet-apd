@@ -1,6 +1,6 @@
 # Aplicações para Desktop - UNISANTA
 
-Este repositório contém o conteúdo aprendido durante as aulas da disciplina **APLICAÇÕES PARA DESKTOP**, ministrada pelo professor **Asenjo** na Universidade Santa Cecília (UNISANTA). Aqui serão armazenados códigos, anotações e projetos desenvolvidos ao longo do curso.
+Este repositório contém o conteúdo aprendido durante as aulas da disciplina **APLICAÇÕES PARA DESKTOP**, ministrada pelo professor **Maurício Asenjo** na Universidade Santa Cecília (UNISANTA). Aqui serão armazenados códigos, anotações e projetos desenvolvidos ao longo do curso.
 
 ## 📌 Sobre a Disciplina
 
