@@ -1,0 +1,21 @@
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\bin\Debug\EquacaoSegundoGrau.exe.config
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\bin\Debug\EquacaoSegundoGrau.exe
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\bin\Debug\EquacaoSegundoGrau.pdb
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.csproj.AssemblyReference.cache
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.EquacaoUIL.resources
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.Properties.Resources.resources
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.csproj.GenerateResource.cache
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.exe
+C:\Users\Mauricio\source\repos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.pdb
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\bin\Debug\EquacaoSegundoGrau.exe.config
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\bin\Debug\EquacaoSegundoGrau.exe
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\bin\Debug\EquacaoSegundoGrau.pdb
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.EquacaoUIL.resources
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.Properties.Resources.resources
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.csproj.GenerateResource.cache
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.exe
+C:\Users\unisanta\Downloads\Bim01Aula04\Parte IV Gráficos\EquacaoSegundoGrau\EquacaoSegundoGrau\obj\Debug\EquacaoSegundoGrau.pdb
