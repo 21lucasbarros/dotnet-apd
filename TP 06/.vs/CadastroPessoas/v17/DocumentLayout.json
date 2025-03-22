@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\cadastropessoas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\cadastropessoas\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|c:\\users\\asus\\downloads\\cadastropessoas\\cadastropessoas\\cadastropessoas\\dal\\pessoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\dal\\pessoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\cadastropessoas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\cadastropessoas\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\cadastropessoas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\cadastropessoas\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\App.config",
+              "RelativeDocumentMoniker": "CadastroPessoas\\App.config",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\App.config",
+              "RelativeToolTip": "CadastroPessoas\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-21T20:12:43.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\DAL\\Conexao.cs",
+              "RelativeDocumentMoniker": "CadastroPessoas\\DAL\\Conexao.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\DAL\\Conexao.cs",
+              "RelativeToolTip": "CadastroPessoas\\DAL\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:12:43.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroPessoas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\Form1.cs",
+              "RelativeToolTip": "CadastroPessoas\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:12:43.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PessoaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\BLL\\PessoaBLL.cs",
+              "RelativeDocumentMoniker": "CadastroPessoas\\BLL\\PessoaBLL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\BLL\\PessoaBLL.cs",
+              "RelativeToolTip": "CadastroPessoas\\BLL\\PessoaBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:12:43.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\DAL\\PessoaDAL.cs",
+              "RelativeDocumentMoniker": "CadastroPessoas\\DAL\\PessoaDAL.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\DAL\\PessoaDAL.cs",
+              "RelativeToolTip": "CadastroPessoas\\DAL\\PessoaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:12:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "CadastroPessoas\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\Models\\Pessoa.cs",
+              "RelativeToolTip": "CadastroPessoas\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:12:43.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\Form1.cs",
+              "RelativeDocumentMoniker": "CadastroPessoas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\CadastroPessoas\\CadastroPessoas\\CadastroPessoas\\Form1.cs [Design]",
+              "RelativeToolTip": "CadastroPessoas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T20:12:43.353Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

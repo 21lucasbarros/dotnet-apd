@@ -1,0 +1,12 @@
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe.config
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.pdb
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.Form1.resources
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.Properties.Resources.resources
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.exe
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\bin\Debug\BDAulas.mdb
