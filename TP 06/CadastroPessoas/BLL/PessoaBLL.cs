@@ -21,7 +21,7 @@ namespace CadastroPessoas.BLL
                 throw new Exception("Nome é obrigatório!");
 
             if (pessoa.Sexo != 'F' && pessoa.Sexo != 'M' && pessoa.Sexo != 'f' && pessoa.Sexo != 'm')
-                throw new Exception("Sexo deve ser 'F' ou 'M'!");
+                throw new Exception("Sexo deve ser 'F' ou 'M'.");
 
             if (pessoa.Idade <= 0)
                 throw new Exception("Idade deve ser maior que zero!");
