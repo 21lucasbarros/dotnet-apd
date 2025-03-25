@@ -151,6 +151,7 @@
             this.lstResultado.Name = "lstResultado";
             this.lstResultado.Size = new System.Drawing.Size(277, 304);
             this.lstResultado.TabIndex = 10;
+            this.lstResultado.SelectedIndexChanged += new System.EventHandler(this.lstResultado_SelectedIndexChanged);
             // 
             // Form1
             // 

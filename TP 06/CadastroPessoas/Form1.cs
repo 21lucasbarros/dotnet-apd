@@ -96,5 +96,10 @@ namespace CadastroPessoas
                 MessageBox.Show(ex.Message, "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void lstResultado_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

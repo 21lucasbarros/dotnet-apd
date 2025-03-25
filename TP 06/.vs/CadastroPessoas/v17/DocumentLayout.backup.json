@@ -11,28 +11,24 @@
       "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|c:\\users\\asus\\desktop\\lucas barros\\programa\u00E7\u00E3o\\dotnet-apd\\tp 06\\cadastropessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\cadastropessoas\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\cadastropessoas\\dal\\pessoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\dal\\pessoadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\cadastropessoas\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\cadastropessoas\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\cadastropessoas\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\bll\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\cadastropessoas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\cadastropessoas\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7634AC-23DD-4FEB-9047-41B829C4380A}|CadastroPessoas\\CadastroPessoas.csproj|solutionrelative:cadastropessoas\\dal\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\Program.cs",
-              "RelativeDocumentMoniker": "CadastroPessoas\\Program.cs",
-              "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\Program.cs",
-              "RelativeToolTip": "CadastroPessoas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T20:03:29.547Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\App.config",
               "RelativeDocumentMoniker": "CadastroPessoas\\App.config",
@@ -72,16 +55,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Conexao.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\DAL\\Conexao.cs",
               "RelativeDocumentMoniker": "CadastroPessoas\\DAL\\Conexao.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\DAL\\Conexao.cs",
               "RelativeToolTip": "CadastroPessoas\\DAL\\Conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T20:12:43.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T20:12:43.12Z"
             },
             {
               "$type": "Document",
@@ -91,20 +73,20 @@
               "RelativeDocumentMoniker": "CadastroPessoas\\Form1.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\Form1.cs*",
               "RelativeToolTip": "CadastroPessoas\\Form1.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAEwCsAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAawFMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T20:12:43.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "PessoaBLL.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\BLL\\PessoaBLL.cs",
               "RelativeDocumentMoniker": "CadastroPessoas\\BLL\\PessoaBLL.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\BLL\\PessoaBLL.cs",
               "RelativeToolTip": "CadastroPessoas\\BLL\\PessoaBLL.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T20:12:43.122Z",
               "EditorCaption": ""
@@ -117,23 +99,21 @@
               "RelativeDocumentMoniker": "CadastroPessoas\\DAL\\PessoaDAL.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\DAL\\PessoaDAL.cs",
               "RelativeToolTip": "CadastroPessoas\\DAL\\PessoaDAL.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwBIAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T20:12:43.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T20:12:43.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Pessoa.cs",
               "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\Models\\Pessoa.cs",
               "RelativeDocumentMoniker": "CadastroPessoas\\Models\\Pessoa.cs",
               "ToolTip": "C:\\Users\\Asus\\Desktop\\Lucas Barros\\Programa\u00E7\u00E3o\\dotnet-apd\\TP 06\\CadastroPessoas\\Models\\Pessoa.cs",
               "RelativeToolTip": "CadastroPessoas\\Models\\Pessoa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-21T20:12:43.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-21T20:12:43.352Z"
             },
             {
               "$type": "Document",
