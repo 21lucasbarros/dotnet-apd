@@ -1,0 +1,35 @@
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe.config
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.exe
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\bin\Debug\CadastroPessoas.pdb
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.Form1.resources
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.Properties.Resources.resources
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.GenerateResource.cache
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.exe
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
+C:\Users\unisanta\source\repos\CadastroPessoas\CadastroPessoas\bin\Debug\BDAulas.mdb
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\bin\Debug\BDAulas.mdb
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\bin\Debug\CadastroPessoas.exe.config
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\bin\Debug\CadastroPessoas.exe
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\bin\Debug\CadastroPessoas.pdb
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.Form1.resources
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.Properties.Resources.resources
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.exe
+C:\Users\Asus\Desktop\Lucas Barros\Programação\dotnet-apd\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\bin\Debug\BDAulas.mdb
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\bin\Debug\CadastroPessoas.exe.config
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\bin\Debug\CadastroPessoas.exe
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\bin\Debug\CadastroPessoas.pdb
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.AssemblyReference.cache
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.Form1.resources
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.Properties.Resources.resources
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.GenerateResource.cache
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.exe
+C:\Users\unisanta\Desktop\dotnet-apd-main\TP 06\CadastroPessoas\obj\Debug\CadastroPessoas.pdb
