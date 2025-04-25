@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinemark", "Cinemark\Cinemark.csproj", "{771928E7-C0FB-41A2-9530-1A357DEA5953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771928E7-C0FB-41A2-9530-1A357DEA5953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771928E7-C0FB-41A2-9530-1A357DEA5953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771928E7-C0FB-41A2-9530-1A357DEA5953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771928E7-C0FB-41A2-9530-1A357DEA5953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F5C4D57-975D-4061-B26F-5F98AC4EA7A6}
+	EndGlobalSection
+EndGlobal
