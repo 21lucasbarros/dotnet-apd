@@ -13,4 +13,4 @@ A disciplina foca no desenvolvimento de aplicações desktop utilizando tecnolog
 
 ---
 
-📌 **Lucas Barros Simon** - [GitHub](https://github.com/lucasweacked)
+📌 **Lucas Barros Simon** - [GitHub](https://github.com/21lucasbarros)
