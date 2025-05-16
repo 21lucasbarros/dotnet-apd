@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Downloads\\TpAsenjo (1)\\TpAsenjo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4093724-228F-4F3F-A0C9-9F671394D359}|TpAsenjo\\TpAsenjo.csproj|C:\\Users\\Asus\\Downloads\\TpAsenjo (1)\\TpAsenjo\\tpasenjo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4093724-228F-4F3F-A0C9-9F671394D359}|TpAsenjo\\TpAsenjo.csproj|solutionrelative:tpasenjo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4093724-228F-4F3F-A0C9-9F671394D359}|TpAsenjo\\TpAsenjo.csproj|c:\\users\\asus\\downloads\\tpasenjo (1)\\tpasenjo\\tpasenjo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4093724-228F-4F3F-A0C9-9F671394D359}|TpAsenjo\\TpAsenjo.csproj|solutionrelative:tpasenjo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\TpAsenjo (1)\\TpAsenjo\\TpAsenjo\\Form1.cs",
+              "RelativeDocumentMoniker": "TpAsenjo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\TpAsenjo (1)\\TpAsenjo\\TpAsenjo\\Form1.cs",
+              "RelativeToolTip": "TpAsenjo\\Form1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:40:56.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Asus\\Downloads\\TpAsenjo (1)\\TpAsenjo\\TpAsenjo\\Form1.cs",
+              "RelativeDocumentMoniker": "TpAsenjo\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\Downloads\\TpAsenjo (1)\\TpAsenjo\\TpAsenjo\\Form1.cs [Design]",
+              "RelativeToolTip": "TpAsenjo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T01:40:56.793Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

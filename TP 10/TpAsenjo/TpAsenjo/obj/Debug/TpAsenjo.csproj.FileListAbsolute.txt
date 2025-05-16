@@ -1,0 +1,23 @@
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\bin\Debug\TpAsenjo.exe.config
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\bin\Debug\TpAsenjo.exe
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\bin\Debug\TpAsenjo.pdb
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.csproj.AssemblyReference.cache
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.csproj.SuggestedBindingRedirects.cache
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.csproj.ResolveComReference.cache
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.Form1.resources
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.Properties.Resources.resources
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.csproj.GenerateResource.cache
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.csproj.CoreCompileInputs.cache
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.exe
+C:\Users\unisanta\Downloads\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.pdb
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\bin\Debug\TpAsenjo.exe.config
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\bin\Debug\TpAsenjo.exe
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\bin\Debug\TpAsenjo.pdb
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.csproj.ResolveComReference.cache
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.Form1.resources
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.Properties.Resources.resources
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.exe
+C:\Users\Asus\Downloads\TpAsenjo (1)\TpAsenjo\TpAsenjo\obj\Debug\TpAsenjo.pdb
